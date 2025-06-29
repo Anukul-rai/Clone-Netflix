@@ -1,13 +1,26 @@
-# React + Vite
+# 🎬 Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually appealing and responsive **Netflix Clone** built with **React JS**. This project mimics the UI and UX of the real Netflix platform using **TMDB API** to fetch real movie data.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- 🔹 **React JS**
+- 🔹 **HTML5 & CSS3**
+- 🔹 **JavaScript (ES6)**
+- 🔹 **Axios** – API calls
+- 🔹 **TMDB API** – Movie data
+- 🔹 **React Router DOM** – Routing
+- 🔹 **Responsive Design**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Clone-Netflix
+---
+
+## 🔑 Features
+
+✅ Trending movies section  
+✅ Movie posters with hover effect  
+✅ Banner with featured movie  
+✅ Responsive across devices  
+✅ Movie trailer pop-up (if implemented)  
+✅ Clean, modern UI
